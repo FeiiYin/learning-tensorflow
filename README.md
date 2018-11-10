@@ -1,3 +1,3 @@
 # learning-tensorflow
-process of learning tensorflow, mainly learn from the project : deepmind/learning-to-learn
+process of learning tensorflow, mainly learn from the project : deepmind/learning-to-learn and aymericdamien/TensorFlow-Examples
 
